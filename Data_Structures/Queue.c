@@ -26,7 +26,7 @@ int defiler(file *f){
 }
 
 void afficherfile(file f) {
-    printf("dÃ©but ");
+    printf("debut ");
 
     for (int i = f.p2.nb_elts - 1; i >= 0; i--) {
         printf("%d ", f.p2.tab[i]);
