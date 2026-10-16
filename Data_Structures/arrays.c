@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "Arrays.h"
+#include "arrays.h"
 #include <stdbool.h>
 
 bool present ( int * tab , int n , int x ){
