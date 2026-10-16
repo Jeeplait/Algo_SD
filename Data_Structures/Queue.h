@@ -13,6 +13,6 @@ void fileVide (file*f);
 bool estVidefile(file f);
 void enfiler(file*f, int x);
 int defiler(file*f);
-void afficherFile(file f);
+void afficherfile(file f);
 
 #endif
